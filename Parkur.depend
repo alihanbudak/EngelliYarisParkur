@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592096926 source:c:\users\excalibur g770\desktop\ders projeleri\182805001-alihanbudak-ii.ogretim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
